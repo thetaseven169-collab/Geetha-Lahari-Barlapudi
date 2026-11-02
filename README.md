@@ -35,8 +35,7 @@ installed.
   `results.zip`                                                                                                                                                                       Archive of result files included in
                                                                                                                                                                                       the repository.
 
-  `University of the Cumberlands Fall’26 Term 1 Algorithms and Data Structures Assignment 6 Medians and Order Statistics & Elementary Data Structures Geetha Lahari Barlapudi.docx`   Assignment document included in the
-                                                                                                                                                                                      repository.
+Medians and Order Statistics & Elementary Data Structures 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Requirements
